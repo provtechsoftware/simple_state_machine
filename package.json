@@ -1,0 +1,23 @@
+{
+  "name": "simple_state_machine",
+  "version": "0.1.0",
+  "description": "Very simple state machine using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/provtechsoftware/simple_state_machine.git"
+  },
+  "keywords": [
+    "state_machine",
+    "example"
+  ],
+  "author": "Felipe Provenzano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/provtechsoftware/simple_state_machine/issues"
+  },
+  "homepage": "https://github.com/provtechsoftware/simple_state_machine#readme"
+}
